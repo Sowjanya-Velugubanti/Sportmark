@@ -1,6 +1,6 @@
 # Sportmark 🏆
 
-A responsive sports event ticket booking web application that allows users to explore sports events, view event details, and navigate through an interactive booking interface.
+A responsive sports event ticket booking web application built using React, allowing users to explore sports events, view event details, and navigate through an interactive booking interface.
 
 ## 🚀 Features
 
